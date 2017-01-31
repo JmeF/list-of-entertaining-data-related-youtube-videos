@@ -1,3 +1,3 @@
-----		
--layout: resource		
-----
+---
+layout: resource
+---
